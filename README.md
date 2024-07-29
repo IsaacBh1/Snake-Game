@@ -1,6 +1,7 @@
-##Snake-Game
+#Snake-Game
+
 Welcome to Snake-Game, a classic arcade game implemented in Lua using the LÖVE 2D framework! Guide the snake to eat food and grow longer, but be careful not to collide with the walls or itself.
-#Installation
+##Installation
 To run this Snake Game, you need to have Lua and the LÖVE 2D framework installed on your system. Follow the steps below to set up the game:
 
 ###Clone the repository:
@@ -9,7 +10,7 @@ To run this Snake Game, you need to have Lua and the LÖVE 2D framework installe
   git clone https://github.com/IsaacBh1/Snake-Game-.git
 ```
 
-##Install Lua:
+###Install Lua:
 
 Windows: 
 Download and install Lua from LuaBinaries.
